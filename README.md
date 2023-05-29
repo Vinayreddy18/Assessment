@@ -1,6 +1,6 @@
 # Assessment
 
-Hosted URL:  vinay-work.netlify.app
+Hosted URL:  https://vinay-work.netlify.app
 
 Run locally:
 
